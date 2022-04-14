@@ -1,0 +1,5 @@
+[32m@corp/server:start: [0mcache hit, replaying output [2mbe46c6d2b2b7702d[0m
+[32m@corp/server:start: [0mwarning package.json: No license field
+[32m@corp/server:start: [0m$ babel src/ --out-dir lib --extensions ".ts,.tsx" && node lib/index.js
+[32m@corp/server:start: [0mSuccessfully compiled 1 file with Babel (511ms).
+[32m@corp/server:start: [0m/??
