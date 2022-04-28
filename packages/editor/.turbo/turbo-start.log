@@ -1,0 +1,51 @@
+[35m@corp/editor:start: [0mcache hit, replaying output [2mcadff6c7dbbc3f54[0m
+[35m@corp/editor:start: [0mwarning package.json: No license field
+[35m@corp/editor:start: [0m$ react-scripts start
+[35m@corp/editor:start: [0m(node:16548) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+[35m@corp/editor:start: [0m(Use `node --trace-deprecation ...` to show where the warning was created)
+[35m@corp/editor:start: [0m(node:16548) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+[35m@corp/editor:start: [0mStarting the development server...
+[35m@corp/editor:start: [0m
+[35m@corp/editor:start: [0mCompiled with warnings.
+[35m@corp/editor:start: [0m
+[35m@corp/editor:start: [0msrc\client\client.ts
+[35m@corp/editor:start: [0m  Line 5:10:  'v4' is defined but never used  @typescript-eslint/no-unused-vars
+[35m@corp/editor:start: [0m
+[35m@corp/editor:start: [0mSearch for the keywords to learn more about each warning.
+[35m@corp/editor:start: [0mTo ignore, add // eslint-disable-next-line to the line before.
+[35m@corp/editor:start: [0m
+[35m@corp/editor:start: [0masset [1m[32mstatic/js/bundle.js[39m[22m 1.78 MiB [1m[32m[emitted][39m[22m (name: main) 1 related asset
+[35m@corp/editor:start: [0masset [1m[32mindex.html[39m[22m 1.67 KiB [1m[32m[emitted][39m[22m
+[35m@corp/editor:start: [0masset [1m[32masset-manifest.json[39m[22m 190 bytes [1m[32m[emitted][39m[22m
+[35m@corp/editor:start: [0mcached modules 1.66 MiB [1m[32m[cached][39m[22m 123 modules
+[35m@corp/editor:start: [0mruntime modules 28.5 KiB 14 modules
+[35m@corp/editor:start: [0mjavascript modules 4.73 KiB
+[35m@corp/editor:start: [0m  [1m./src/index.tsx[39m[22m 1.49 KiB [1m[33m[built][39m[22m
+[35m@corp/editor:start: [0m  [1m./src/client/client.ts[39m[22m 3.24 KiB [1m[33m[built][39m[22m
+[35m@corp/editor:start: [0m
+[35m@corp/editor:start: [0m[1m[33mWARNING[39m[22m in [1m
+[35m@corp/editor:start: [0msrc\client\client.ts
+[35m@corp/editor:start: [0m  Line 5:10:  'v4' is defined but never used  @typescript-eslint/no-unused-vars
+[35m@corp/editor:start: [0m
+[35m@corp/editor:start: [0m[39m[22m
+[35m@corp/editor:start: [0m
+[35m@corp/editor:start: [0mwebpack 5.72.0 compiled with [1m[33m1 warning[39m[22m in 3544 ms
+[35m@corp/editor:start: [0mFiles successfully emitted, waiting for typecheck results...
+[35m@corp/editor:start: [0mIssues checking in progress...
+[35m@corp/editor:start: [0mNo issues found.
+[35m@corp/editor:start: [0mCompiling...
+[35m@corp/editor:start: [0mCompiled with warnings.
+[35m@corp/editor:start: [0m
+[35m@corp/editor:start: [0msrc\client\client.ts
+[35m@corp/editor:start: [0m  Line 5:10:  'v4' is defined but never used  @typescript-eslint/no-unused-vars
+[35m@corp/editor:start: [0m
+[35m@corp/editor:start: [0mSearch for the keywords to learn more about each warning.
+[35m@corp/editor:start: [0mTo ignore, add // eslint-disable-next-line to the line before.
+[35m@corp/editor:start: [0m
+[35m@corp/editor:start: [0massets by chunk 1.78 MiB (name: main)
+[35m@corp/editor:start: [0m  asset [1m[32mstatic/js/bundle.js[39m[22m 1.78 MiB [1m[32m[emitted][39m[22m (name: main) 1 related asset
+[35m@corp/editor:start: [0m  asset [1m[32mmain.8919d7f07ec3423cf73a.hot-update.js[39m[22m 4.59 KiB [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m (name: main) 1 related asset
+[35m@corp/editor:start: [0massets by path [1m[32m*.json[39m[22m 343 bytes
+[35m@corp/editor:start: [0m  asset [1m[32masset-manifest.json[39m[22m 315 bytes [1m[32m[emitted][39m[22m
+[35m@corp/editor:start: [0m  asset [1m[32mmain.8919d7f07ec3423cf73a.hot-update.json[39m[22m 28 bytes [1m[32m[emitted][39m[22m [1m[32m[immutable][39m[22m [1m[32m[hmr][39m[22m
+[35m@corp/editor:start: [0masset [1m[32mindex.h

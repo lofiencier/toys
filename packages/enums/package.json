@@ -1,0 +1,21 @@
+{
+  "name": "@corp/enums",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "tsc --build && tsc --emitDeclarationOnly"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/diff-match-patch": "^1.0.32",
+    "@types/lodash": "^4.14.182",
+    "@types/uuid": "^8.3.4",
+    "@types/websocket": "^1.0.5",
+    "diff-match-patch": "^1.0.5",
+    "lodash": "^4.17.21",
+    "ws": "^8.5.0"
+  }
+}

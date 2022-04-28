@@ -1,0 +1,2 @@
+[32m@corp/enums:start: [0mcache hit, replaying output [2md6b96d1c43e15c5e[0m
+[32m@corp/enums:start: [0m$ tsc --build && tsc --emitDeclarationOnly

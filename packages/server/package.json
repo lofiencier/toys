@@ -1,0 +1,33 @@
+{
+  "name": "@corp/server",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "babel src/ --out-dir lib --extensions \".ts,.tsx\" && node lib/index.js"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.9",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-typescript": "^7.16.7",
+    "@teamwork/websocket-json-stream": "^2.0.0",
+    "@types/sharedb": "^2.2.0",
+    "express": "^4.17.3",
+    "reconnecting-websocket": "^4.4.0",
+    "sharedb": "^2.2.5",
+    "ws": "^8.5.0"
+  },
+  "packageManager": "yarn@1.22.17",
+  "dependencies": {
+    "@corp/enums": "^0.0.1",
+    "@teamwork/websocket-json-stream": "^2.0.0",
+    "@types/diff-match-patch": "^1.0.32",
+    "@types/lodash": "^4.14.182",
+    "@types/uuid": "^8.3.4",
+    "@types/websocket": "^1.0.5",
+    "diff-match-patch": "^1.0.5",
+    "lodash": "^4.17.21",
+    "socket.io": "^4.4.1",
+    "uuid": "^8.3.2",
+    "ws": "^8.5.0"
+  }
+}
