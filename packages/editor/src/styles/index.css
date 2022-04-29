@@ -1,6 +1,27 @@
-:root{
-  --background: '#222222';
-  --main-color: '#045757';
-  --secondary: '#045757';
-  --font-color: '#045757';
+:root {
+  --background: #222222;
+  --main-color: #045757;
+  --secondary: #045757;
+  --font-color: #e4e4e4;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  background-color: var(--background);
+  color: var(--font-color);
+}
+
+a, a:active {
+  color: var(--font-color);
+  text-decoration: none;
+}
+.list-container {
+
+}
+.list-card{
+  display: block;
+}
+.ql-container.quill-editor {
+  height: calc(100vh - 42px);
 }

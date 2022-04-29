@@ -6,3 +6,6 @@ export declare const WS_URL: string;
 export interface DataContent {
     content: string;
 }
+export declare const cs: (base: string, extra: {
+    [key: string]: boolean;
+}) => string;
